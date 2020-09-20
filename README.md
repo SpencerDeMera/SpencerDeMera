@@ -28,12 +28,12 @@
 [<img align="left" alt="x86 Assembly" wdith="26px" src="https://img.icons8.com/office/32/000000/Assembly-Lines.png" />]
 [<img align="left" alt="Python" wdith="26px" src="https://img.icons8.com/color/32/000000/python.png" />]
 [<img align="left" alt="Eclipse IDE" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/eclipse-icon.png" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/32/000000/visual-studio-code-2019.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/fluent/35/000000/visual-studio-code-2019.png" />]
 [<img align="left" alt="PyCharm" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/pycharm-icon.png" />]
 [<img align="left" alt="Atom" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/atom-icon.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluent/32/000000/github.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/fluent/35/000000/github.png" />]
 [<img align="left" alt="Linux" wdith="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/osullivanluke/orb-os-x/32/Terminal-icon.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/osullivanluke/orb-os-x/35/Terminal-icon.png" />]
 
 <br />
 <br />
