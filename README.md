@@ -35,6 +35,6 @@
 [<img align="left" alt="Linux" wdith="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/osullivanluke/orb-os-x/40/Terminal-icon.png" />]
 
-[instagram]: https://instagram.com/spencer.demera
-[Unsplash]: https://unsplash.com/@spencer_demera
-[linkedin]: https://www.linkedin.com/in/spencer-demera-939527199/
+---[instagram]: https://instagram.com/spencer.demera
+---[Unsplash]: https://unsplash.com/@spencer_demera
+---[linkedin]: https://www.linkedin.com/in/spencer-demera-939527199/
