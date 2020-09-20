@@ -1,6 +1,6 @@
 ## Hi there, I'm Spencer - aka Spencer5515 👋
 
-# I'm a CS Student at CSU Fullerton!
+# I'm a 3rd year CS Student at Cal State Fullerton!
 
 - 🔭 I’m currently working on extra credit projects for school\
 - 🌾 I'm currently teaching myself Python
@@ -9,7 +9,7 @@
 - 🦆 Fun Fact: I raise Ducks
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-SpencerDem.vercel.app/api/spotify-playing" alt="Spencer5515 Spotify Playing" width="350" />](https://open.spotify.com/user/frostieboy55)
+[<img src="https://novatorem.spencer5515.vercel.app/api/spotify" />](https://open.spotify.com/user/frostieboy55)
 
 ### Connect with me:
 
@@ -41,6 +41,8 @@
 ---
 
 <img align="left" alt="Spencer5515's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer5515&show_icons=true*hide_border=true" />
+<img align="left" alt="Spencer5515's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spencer5515&show_icons=true*hide_border=true" />
+
 
 [instagram]: https://instagram.com/spencer.demera
 [Unsplash]: https://unsplash.com/@spencer_demera
