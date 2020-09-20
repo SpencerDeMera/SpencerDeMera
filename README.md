@@ -2,7 +2,7 @@
 
 # I'm a 3rd year CS Student at Cal State Fullerton!
 
-- 🔭 I’m currently working on extra credit projects for school\
+- 🔭 I’m currently working on extra credit projects for school
 - 🌾 I'm currently teaching myself Python
 - 👨‍💻 I'm looking to become a Software Engineering intern
 - 🎆 2020/2021 Goals: Learn about and contribute to Open Source projects
