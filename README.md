@@ -1,6 +1,6 @@
-### Hi there, I'm Spencer - aka Spencer5515 👋
+## Hi there, I'm Spencer - aka Spencer5515 👋
 
-## I'm a 3rd year CS Student at Cal State Fullerton!
+# I'm a 3rd year CS Student at Cal State Fullerton!
 
 - 🔭 I’m currently working on extra credit projects for school\
 - 🌾 I'm currently teaching myself Python
