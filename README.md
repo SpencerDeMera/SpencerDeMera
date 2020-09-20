@@ -19,6 +19,8 @@
 
 <br />
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="C++" wdith="26px" src="https://img.icons8.com/color/32/000000/c-plus-plus-logo.png" />
