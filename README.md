@@ -21,18 +21,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" wdith="26px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png" />]
-[<img align="left" alt="C" wdith="26px" src="https://img.icons8.com/color/240/000000/c-programming.png" />]
-[<img align="left" alt="Java" wdith="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Java-icon.png" />]
-[<img align="left" alt="C#" wdith="26px" src="https://img.icons8.com/color/240/000000/c-sharp-logo.png" />]
-[<img align="left" alt="x86 Assembly" wdith="26px" src="https://img.icons8.com/office/100/000000/Assembly-Lines.png" />]
-[<img align="left" alt="Python" wdith="26px" src="https://img.icons8.com/color/240/000000/python.png" />]
-[<img align="left" alt="Eclipse IDE" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/eclipse-icon.png" />]
+[<img align="left" alt="C++" wdith="26px" src="https://img.icons8.com/color/24/000000/c-plus-plus-logo.png" />]
+[<img align="left" alt="C" wdith="26px" src="https://img.icons8.com/color/24/000000/c-programming.png" />]
+[<img align="left" alt="Java" wdith="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/24/Java-icon.png" />]
+[<img align="left" alt="C#" wdith="26px" src="https://img.icons8.com/color/24/000000/c-sharp-logo.png" />]
+[<img align="left" alt="x86 Assembly" wdith="26px" src="https://img.icons8.com/office/24/000000/Assembly-Lines.png" />]
+[<img align="left" alt="Python" wdith="26px" src="https://img.icons8.com/color/24/000000/python.png" />]
+[<img align="left" alt="Eclipse IDE" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/eclipse-icon.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="PyCharm" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/pycharm-icon.png" />]
-[<img align="left" alt="Atom" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/atom-icon.png" />]
+[<img align="left" alt="PyCharm" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/pycharm-icon.png" />]
+[<img align="left" alt="Atom" wdith="26px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/24/atom-icon.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Linux" wdith="26px" src="https://icons.iconarchive.com/icons/martz90/circle/512/linux-icon.png" />]
+[<img align="left" alt="Linux" wdith="26px" src="https://icons.iconarchive.com/icons/martz90/circle/24/linux-icon.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
