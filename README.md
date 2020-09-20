@@ -8,6 +8,8 @@
 - 🎆 2020/2021 Goals: Learn about and contribute to Open Source projects
 - 🦆 Fun Fact: I raise Ducks
 
+---
+
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-git-master.spencer5515.vercel.app/api/spotify)](https://open.spotify.com/user/frostieboy55)
 
