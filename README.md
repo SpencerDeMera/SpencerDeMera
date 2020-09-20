@@ -35,6 +35,10 @@
 <img align="left" alt="Linux" wdith="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png" />
 <img align="left" alt="Terminal" width="26px" src="https://icons.iconarchive.com/icons/osullivanluke/orb-os-x/64/Terminal-icon.png" />
 
+---
+
+<img align="left" alt="Spencer5515's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer5515&show_icons=true*hide_border=true" />
+
 [instagram]: https://instagram.com/spencer.demera
 [Unsplash]: https://unsplash.com/@spencer_demera
 [linkedin]: https://www.linkedin.com/in/spencer-demera-939527199/
