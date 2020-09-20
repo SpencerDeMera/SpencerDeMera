@@ -9,7 +9,7 @@
 - 🦆 Fun Fact: I raise Ducks
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.spencer5515.vercel.app/api/spotify)](https://open.spotify.com/user/frostieboy55)
+[![Spotify](https://novatorem-git-master.spencer5515.vercel.app/api/spotify)](https://open.spotify.com/user/frostieboy55)
 
 ### Connect with me:
 
