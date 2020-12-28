@@ -1,10 +1,10 @@
 ## Hi there, I'm Spencer - aka Spencer5515 👋
 
-# I'm a 3rd year CS Student at Cal State Fullerton!
+# I'm a 3rd year CompSci Student at Cal State Fullerton!
 
-- 🔭 I’m currently working on extra credit projects for school
+- 🔭 I’m currently working on personal development projects
 - 🌾 I'm currently teaching myself Python & HTML/CSS
-- 👨‍💻 I'm looking to become a Software Engineering intern
+- 💻 I'm looking to become a Software Engineering intern
 - 📸 2021 Goals: Develop a professional webiste / repository for my photography hobby
 - 🦆 Fun Fact: I raise Ducks
 
