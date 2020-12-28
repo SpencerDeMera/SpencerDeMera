@@ -49,4 +49,4 @@
 
 [instagram]: https://instagram.com/spencer.demera
 [Unsplash]: https://unsplash.com/@spencer_demera
-[linkedin]: https://www.linkedin.com/in/spencer-demera-939527199/
+[linkedin]: https://www.linkedin.com/in/~spencer-demera/
