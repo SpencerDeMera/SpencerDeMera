@@ -3,9 +3,9 @@
 # I'm a 3rd year CompSci Student at Cal State Fullerton!
 
 - 🔭 I’m currently working on personal development projects
-- 🌾 I'm currently teaching myself Python & Web Development
+- 🌾 I'm currently teaching myself Web and React Native Development
 - 💻 I'm looking to become a Software Engineering intern
-- 📸 2021 Goals: Develop a professional webiste / repository for my photography hobby
+- 📸 2021 Goals: Develop a professional webiste & Android Weather Application
 - 🦆 Fun Fact: I raise Ducks
 
 ---
