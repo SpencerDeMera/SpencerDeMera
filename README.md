@@ -1,6 +1,6 @@
 ## Hi there, I'm Spencer - aka Spencer5515 👋
 
-# I'm a 4th year CompSci Student at Cal State Fullerton!
+### I'm a 4th year CompSci Student at Cal State Fullerton!
 
 - 🔭 I’m currently working on a react-native based weather app and my fraternity's website
 - 🌾 I'm currently teaching myself react-native development
