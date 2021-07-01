@@ -2,7 +2,7 @@
 
 # I'm a 4th year CompSci Student at Cal State Fullerton!
 
-- 🔭 I’m currently working on a react-native based Weather App and my Fraternities website
+- 🔭 I’m currently working on a react-native based Weather App and my Fraternity's website
 - 🌾 I'm currently teaching myself react-native development
 - 💻 I'm looking to become a Software Engineering intern
 - 📸 2021 Goals: Develop a professional portfolio webiste
