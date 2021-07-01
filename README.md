@@ -1,4 +1,4 @@
-## Hi there, I'm Spencer - aka Spencer5515 👋
+# Hi there, I'm Spencer - aka Spencer5515 👋
 
 ### I'm a 4th year CompSci Student at Cal State Fullerton!
 
