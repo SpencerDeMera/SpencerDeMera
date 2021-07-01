@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on a react-native based weather app and my fraternity's website
 - 🌾 I'm currently teaching myself react-native development
 - 💻 I'm looking to become a Software Engineering intern
-- 📸 2021 Goals: Develop a professional portfolio webiste
-- 😁 Pronounds: he/him
+- 📸 2021 Goals: Develop my own android weather app and a professional portfolio webiste 
+- 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
 
 ---
