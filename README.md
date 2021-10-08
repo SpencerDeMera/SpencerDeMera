@@ -17,12 +17,9 @@
 [<img align="left" alt="Spencer5515 | Instagram" width="35px" src="https://img.icons8.com/fluent/144/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Spencer5515 | Unsplash" width= "35px" src="https://img.icons8.com/nolan/128/unsplash.png" />][Unsplash]
 
-<br />
+<br/>
 
 ---
-
-<img align="left" alt="Spencer5515's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer5515&show_icons=true*hide_border=true" />
-
 
 [instagram]: https://instagram.com/spencer.demera
 [Unsplash]: https://unsplash.com/@spencer_demera
