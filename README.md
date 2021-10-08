@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on a react-native based weather app and my fraternity's website
 - 🌾 I'm currently teaching myself react-native development
 - 💻 I'm looking to become a Software Engineering intern
-- 📸 2021 Goals: Become a software engineering intern and focus on person projects
+- 📸 2021 Goals: Become a software engineering intern and focus on personal projects
 - 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
 
