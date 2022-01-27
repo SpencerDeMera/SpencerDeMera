@@ -2,10 +2,10 @@
 
 ### I'm a 4th year CompSci Student at Cal State Fullerton!
 
-- 🔭 I’m currently working on a react-native based weather app and my fraternity's website
+- 🔭 I’m currently working on a react-native based weather app
 - 🌾 I'm currently teaching myself react-native development
 - 💻 I'm looking to become a Software Engineering intern
-- 📸 2021 Goals: Become a software engineering intern and focus on personal projects
+- 📸 2022 Goals: Become a software engineering intern and focus on personal projects
 - 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
 
