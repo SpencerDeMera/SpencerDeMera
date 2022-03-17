@@ -13,8 +13,8 @@
 
 ### Tools & Technologies I'm Familiar With
 
-[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />]
-[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]
+[<img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:top; margin-vertical:3px" />]
+[<img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:top; margin-vertical:3px" />]
 [<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />]
 [<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />]
 [<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />]
