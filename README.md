@@ -32,9 +32,17 @@
 [<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="html"/>]
 [<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="html"/>]
 [<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="html"/>]
-[<img align="left" style="vertical-align:top; margin-vertical:3px" src="" alt="html"/>]
-[<img align="left" style="vertical-align:top; margin-vertical:3px" src="" alt="html"/>]
-[<img align="left" style="vertical-align:top; margin-vertical:3px" src="" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="html"/>]
+[<img align="left" style="vertical-align:top; margin-vertical:3px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="html"/>]
 
 <br/>
 
