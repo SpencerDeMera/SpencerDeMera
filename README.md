@@ -14,7 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Spencer5515 | LinkedIn" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Spencer5515 | Instagram" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img align="left" alt="Spencer5515 | Instagram" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/spencer.demera-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
 <br/>
 
