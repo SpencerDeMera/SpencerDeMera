@@ -1,4 +1,4 @@
-# Hi there, I'm Spencer - aka Spencer5515 👋
+# Hi there, I'm Spencer - aka SpencerDemera 👋
 
 ### I'm a 4th year CompSci Student at Cal State Fullerton!
 
@@ -10,6 +10,18 @@
 - 🦆 Fun Fact: I raise Ducks
 
 ---
+
+### Tools & Technologies I'm Familiar With
+
+[<img align="left" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />]
+[<img align="left" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]
+[<img align="left" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />]
+[<img align="left" style="vertical-align:top; margin:3px" src="" />]
+[<img align="left" style="vertical-align:top; margin:3px" src="" />]
+[<img align="left" style="vertical-align:top; margin:3px" src="" />]
+[<img align="left" style="vertical-align:top; margin:3px" src="" />]
+
+<br/>
 
 ### Connect with me:
 
