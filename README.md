@@ -15,6 +15,7 @@
 
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html"/>
+<img align="left" style="vertical-align:top" src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html"/>
@@ -38,7 +39,6 @@
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="html"/>
-<img align="left" style="vertical-align:top" src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="html"/>
