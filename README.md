@@ -13,10 +13,10 @@
 
 ### Tools & Technologies I'm Familiar With
 
-<img align="left" style="vertical-align:top; margin:-1px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html"/>
-<img align="left" style="vertical-align:top; margin:-1px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html"/>
-<img align="left" style="vertical-align:top; margin:-1px" src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="html"/>
-<img align="left" style="vertical-align:top; margin:-1px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html"/>
+<img align="left" style="vertical-align:top; margin:0.5px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html"/>
+<img align="left" style="vertical-align:top; margin:0.5px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html"/>
+<img align="left" style="vertical-align:top; margin:0.5px" src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="html"/>
+<img align="left" style="vertical-align:top; margin:0.5px" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="html"/>
 <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="html"/>
