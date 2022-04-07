@@ -57,9 +57,10 @@
 [<img align="left" alt="Spencer5515 | LinkedIn" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Spencer5515 | Instagram" style="vertical-align:top; margin:3px" src="https://img.shields.io/badge/spencer.demera-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 
-<br/>
+<br/><br/>
 
 ### Languages:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDeMera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
