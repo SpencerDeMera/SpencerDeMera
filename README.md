@@ -59,8 +59,9 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDeMera&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpencerDeMera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!p>
 ---
 
 [instagram]: https://instagram.com/spencer.demera
