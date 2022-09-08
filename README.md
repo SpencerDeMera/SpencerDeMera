@@ -2,7 +2,7 @@
 
 ### I'm a 4th year CompSci Student at Cal State Fullerton!
 
-- 🔭 I’m currently working on logic gate based CPU
+- 🔭 I’m currently working on a from-scracth design CPU
 - 💻 I'm looking to become a Software Engineering intern
 - 📸 2022 Goals: Become a software engineering intern and focus on personal projects
 - 😁 Pronouns: he/him
