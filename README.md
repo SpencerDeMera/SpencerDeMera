@@ -1,10 +1,10 @@
 # Hi there, I'm Spencer - aka SpencerDemera 👋
 
-### I'm a 4th year CompSci Student at Cal State Fullerton!
+### I'm a Jr. Web Developer at GrandCom
 
 - 🔭 I’m currently working on a from-scracth design CPU
-- 💻 I'm looking to become a Software Engineering intern
-- 📸 2022 Goals: Become a software engineering intern and focus on personal projects
+- 💻 I'm looking to further my understanding and experience in Computer Science and Engineering
+- 📸 2023 Goals: Start my Masters Degree
 - 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
 
