@@ -3,7 +3,7 @@
 ### I'm a Jr. Web Developer at GrandCom
 
 - 🔭 I’m currently working on a from-scracth design CPU
-- 💻 I'm looking to further my understanding and experience in Computer Science and Engineering
+- 💻 I'm working as a Jr. Web Developer
 - 📸 2023 Goals: Start my Masters Degree
 - 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
