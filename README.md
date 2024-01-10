@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a from-scracth design CPU
 - 💻 I'm working as a Jr. Web Developer
-- 📸 2023 Goals: Start my Masters Degree
+- 📸 2024 Goals: Survive my Masters Degree
 - 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
 
