@@ -1,8 +1,9 @@
 # Hi there, I'm Spencer - aka SpencerDemera 👋
 
-### I'm a Jr. Web Developer at GrandCom who is pursuing his M.S. in Computer Engineering
+### I'm a Software Developer at GrandCom
 
 - 🔭 I’m currently working on a from-scracth design CPU
+- 🎓 I recently graduated with my M.S. in Computer Engineering
 - 💻 I'm working as a Software Developer
 - 😁 Pronouns: he/him
 - 🦆 Fun Fact: I raise Ducks
