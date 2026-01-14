@@ -13,6 +13,7 @@
 ### Tools & Technologies I'm Familiar With
 
 <p align="left">
+  <img aling="left" style="vertical-align:top" src="https://img.shields.io/badge/verilog-%2300599Verilog.svg?style=for-the-badge&logo=verilog&logoColor=white" alt="verilog"/>
   <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="html"/>
   <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="html"/>
   <img align="left" style="vertical-align:top" src="https://img.shields.io/badge/CUDA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="html"/>
